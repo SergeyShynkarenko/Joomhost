@@ -39,9 +39,9 @@ body {
 
 
 .btn__menu div {
-height: 5px;
-background-color: #000;
-margin-bottom: 5px;
+	height: 5px;
+	background-color: #000;
+	margin-bottom: 5px;
 }
 
 .menu__list {
@@ -417,7 +417,7 @@ margin-bottom: 5px;
 .reviews-slider .slick-dots li {
 	margin: 0 8px;
 }
- 
+
 .reviews-slider .slick-dots li.slick-active button {
 	background-color: #fff;
 	border: 2px solid #2575e7;
@@ -467,6 +467,12 @@ margin-bottom: 5px;
 	color: #2575e7;
 	font-family: 'Roboto', sans-serif;
 	font-weight: 700;
+}
+
+
+.img-box {
+	background-color: #fff;
+	padding: 105px 0;
 }
 
 
